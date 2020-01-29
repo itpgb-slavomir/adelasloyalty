@@ -5,7 +5,7 @@ This is a loyalty programme application for a mexican restaurant chain called La
 
 App will be build using Pro MERN Stack React, Mongo, Express with a node.js for backend. It´s purpose is to test functions of loyalty programme and to assure this won´t disturb company´s great success.
 
-Application will have 3 types of users
+#Application will have 3 types of users
 1. Custommers / consumers
 2. Cashiers
 3. Administrators
