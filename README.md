@@ -1,4 +1,4 @@
-# adelasloyalty
+# AdelitasLoyalty
 loyalty programme native app
 
 This is a loyalty programme application for a mexican restaurant chain called Las Adelitas in Prague.
