@@ -1,9 +1,9 @@
 # adelasloyalty
 loyalty programme native app
 
-This is a prototype of a loyalty programme application for a mexican restaurant chain called Las Adelitas in Prague.
+This is a loyalty programme application for a mexican restaurant chain called Las Adelitas in Prague.
 
-PrototypeApp will be build using React, MariaDB with a node.js for backend. It´s propose is to test functions of loyalty programme and to assure this won´t disturb company´s great success.
+App will be build using Pro MERN Stack React, Mongo, Express with a node.js for backend. It´s purpose is to test functions of loyalty programme and to assure this won´t disturb company´s great success.
 
 Application will have 3 types of users
 1. Cashiers
