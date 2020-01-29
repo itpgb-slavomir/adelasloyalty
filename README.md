@@ -24,3 +24,7 @@ Design of AdelasLoyalty in a Figma file: https://www.figma.com/file/wBhrKxzQznvW
 ### Dry
 Patricio: "In future there will be another internal informational application for onboarding of new employees, and with another functions."
 So lets have all the components and design consistent and lets create a usefull and DRY code.
+
+
+# Inspiration
+https://www.behance.net/gallery/90625165/Costa-Coffee-Loyalty-App?tracking_source=search-all%7Cloyalty%20application
